@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="granny_smith_apple">#B0F2B4</color>
+    <color name="celeste">#BAF2E9</color>
+    <color name="beau_blue">#BAD7F2</color>
+    <color name="beau_blue_2">#BAD4F2</color>
+    <color name="orchid_pink">#F2BAC9</color>
+    <color name="dutch_white">#F2E2BA</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
